@@ -2,7 +2,7 @@
 title: "Final Project"
 author: "Yu Zhang"
 date: "2022-12-16"
-output: html_document
+output: github_document
 fontsize: 12pt
 spacing: double
 ---
